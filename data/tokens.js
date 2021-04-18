@@ -1,4 +1,4 @@
-const tokens = [
+module.exports = [
     {
         name: 'Aave',
         addresses: {
@@ -254,7 +254,3 @@ const tokens = [
         coingeckoID: 'yearn-finance',
     },
 ];
-
-module.exports = {
-    tokens: tokens,
-};

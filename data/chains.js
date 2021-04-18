@@ -1,8 +1,10 @@
-const chains = {
-    main: 1,
-    kovan: 42,
-}
-
-module.exports = {
-    chains: chains,
-};
+module.exports = [
+    {
+        id: 1,
+        name: 'main',
+    },
+    {
+        id: 42,
+        name: 'kovan',
+    }
+];

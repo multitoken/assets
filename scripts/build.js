@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path')
 
-const {chains} = require('../data/chains.js');
-const {tokens} = require('../data/tokens.js');
+const chains = require('../data/chains.js');
+const tokens = require('../data/tokens.js');
 
 
 const FILE_PATHS = {
@@ -32,17 +32,16 @@ const _buildTokens = () => {
         tokens: [],
     };
 
-    for (let chainName in chains) {
-        for (let tokenName in tokens) {
-            const token = tokens[tokenName];
-            if (!token.addresses[chainName]) {
+    for (let chain of chains) {
+        for (let token of tokens) {
+            if (!token.addresses[chain.name]) {
                 continue
             }
 
             result.tokens.push({
-                address: token.addresses[chainName],
-                "chainId": chains[chainName],
-                "name": tokenName,
+                address: token.addresses[chain.name],
+                "chainId": chain.id,
+                "name": token.name,
                 "symbol": token.symbol,
                 "decimals": token.decimals,
                 "logoURI": `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${token.addresses.main}/logo.png`,
@@ -57,16 +56,15 @@ const _buildTokens = () => {
 const _buildEligible = () => {
     const result = {};
 
-    for (let chainName in chains) {
-        result[chainName] = {};
+    for (let chain of chains) {
+        result[chain.name] = {};
 
-        for (let tokenName in tokens) {
-            const token = tokens[tokenName];
-            if (!token.addresses[chainName]) {
+        for (let token of tokens) {
+            if (!token.addresses[chain.name]) {
                 continue
             }
 
-            result[chainName][token.addresses[chainName]] = token.eligible;
+            result[chain.name][token.addresses[chain.name]] = token.eligible;
         }
     }
 
