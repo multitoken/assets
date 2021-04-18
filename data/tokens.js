@@ -3,7 +3,7 @@ module.exports = [
         name: 'Aave',
         addresses: {
             main: '0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9',
-            kovan: '0x41Adb6b4933fa6B4e0457e14b1A24ca14a715a6E',
+            kovan: '0x7f0AF1A00AA20DD127019DdB79957c6270068B64',
         },
         symbol: 'AAVE',
         decimals: 18,
@@ -14,7 +14,7 @@ module.exports = [
         name: 'Basic Attention Token',
         addresses: {
             main: '0x0D8775F648430679A709E98d2b0Cb6250d2887EF',
-            kovan: '0x78d0CB5Ec5144bD05eE3Ea26c5E7c9f04cF96d19',
+            kovan: '0x7dad0d1c1a012b8aB5F7C2fB93469440726FE7e5',
         },
         symbol: 'BAT',
         decimals: 18,
@@ -25,7 +25,7 @@ module.exports = [
         name: 'Binance USD',
         addresses: {
             main: '0x4Fabb145d64652a948d72533023f6E7A623C7C53',
-            kovan: '0x21Cd6d64709685EfC92499fEd437826A5d879a1b',
+            kovan: '0xb4Fa7561FEC4BB9415493b350590aB3aE524B89D',
         },
         symbol: 'BUSD',
         decimals: 18,
@@ -36,7 +36,7 @@ module.exports = [
         name: 'Chainlink',
         addresses: {
             main: '0x514910771AF9Ca656af840dff83E8264EcF986CA',
-            kovan: '0x373986e90d88c943803b30120914f0f2241859fc',
+            kovan: '0x019137bD6A9A9B2a6D0BfA302e48cD6B2DB5086d',
         },
         symbol: 'LINK',
         decimals: 18,
@@ -47,7 +47,7 @@ module.exports = [
         name: 'Chiliz',
         addresses: {
             main: '0x3506424F91fD33084466F402d5D97f05F8e3b4AF',
-            kovan: '0xfB5cb21B25473AfA18dC890A037C037726D987A3',
+            kovan: '0x53f3efcF31bF3227d8ad65ADe5197Cc8852e99DA',
         },
         symbol: 'CHZ',
         decimals: 18,
@@ -58,7 +58,7 @@ module.exports = [
         name: 'Compound',
         addresses: {
             main: '0xc00e94Cb662C3520282E6f5717214004A7f26888',
-            kovan: '0x77398D01662a154C38Cf1150f593B049cEc94A31',
+            kovan: '0x010dB7B4054D29a628A64493E49364b70A7A2a66',
         },
         symbol: 'COMP',
         decimals: 18,
@@ -69,7 +69,7 @@ module.exports = [
         name: 'Crypto.com Coin',
         addresses: {
             main: '0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b',
-            kovan: '0xEDb31f0E1a16b557b67E1ed8288EBdD5B09EaeDD',
+            kovan: '0x8f5baBb328d92a030229272063255fdd44CE0AC9',
         },
         symbol: 'CRO',
         decimals: 8,
@@ -80,7 +80,7 @@ module.exports = [
         name: 'Dai',
         addresses: {
             main: '0x6B175474E89094C44Da98b954EedeAC495271d0F',
-            kovan: '0x5a155D76774e8a1948c87652b3FCfD80655c00D7',
+            kovan: '0x266A9AAc60B0211D7269dd8b0e792D645d2923e6',
         },
         symbol: 'DAI',
         decimals: 18,
@@ -91,7 +91,7 @@ module.exports = [
         name: 'Decentraland',
         addresses: {
             main: '0x0F5D2fB29fb7d3CFeE444a200298f468908cC942',
-            kovan: '0xE807CC2EFb8A1C133c893712237d940041b95B83',
+            kovan: '0x5F035eF52A6cABC917b39A626dd4b0d4831EfB5B',
         },
         symbol: 'MANA',
         decimals: 18,
@@ -102,7 +102,7 @@ module.exports = [
         name: 'FTX Token',
         addresses: {
             main: '0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9',
-            kovan: '0xC28F74a38F99d4EeFdD617E99DE3F7DcDF10Cf5C',
+            kovan: '0xD93284384a3761f46138127C27d485F65159a877',
         },
         symbol: 'FTT',
         decimals: 18,
@@ -113,7 +113,7 @@ module.exports = [
         name: 'Holo',
         addresses: {
             main: '0x6c6EE5e31d828De241282B9606C8e98Ea48526E2',
-            kovan: '0x42e7ac41e14B87fA856c643db7B2c9e91A70eB2e',
+            kovan: '0x83C89638409c53a6f1eE19bCE695271b3333eB73',
         },
         symbol: 'HOT',
         decimals: 18,
@@ -124,7 +124,7 @@ module.exports = [
         name: 'Huobi Token',
         addresses: {
             main: '0x6f259637dcD74C767781E37Bc6133cd6A68aa161',
-            kovan: '0x9B43a22393b1a13105e311e323E10388F63Af4F9',
+            kovan: '0x5064741f45979addd4247233C5d34Aedd1143bee',
         },
         'chainId': 42,
         symbol: 'HT',
@@ -136,7 +136,7 @@ module.exports = [
         name: 'Maker',
         addresses: {
             main: '0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2',
-            kovan: '0xD4fE7C53627735D3150Be07B291904B5Aa2AA976',
+            kovan: '0x920d08a365F2e9dD1DF3760aCB1A76b0f53Aa952',
         },
         symbol: 'MKR',
         decimals: 18,
@@ -147,7 +147,7 @@ module.exports = [
         name: 'Nexo',
         addresses: {
             main: '0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206',
-            kovan: '0x362CBB81950890360a6887B9787a6db50866ffd1',
+            kovan: '0x93cF4cde2fbf7d1597d33834fb336B15F87AA2cd',
         },
         symbol: 'NEXO',
         decimals: 18,
@@ -158,7 +158,7 @@ module.exports = [
         name: 'Polygon',
         addresses: {
             main: '0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0',
-            kovan: '0xa2DA93fd4fb58B9EdF677f1648f99847b3ba6E2d',
+            kovan: '0xA5148dE71270d87E4Bd0B9E2e524178B4a3a101D',
         },
         symbol: 'MATIC',
         decimals: 18,
@@ -168,8 +168,8 @@ module.exports = [
     {
         name: 'Synthetix',
         addresses: {
-            main: 0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F,
-            kovan: '0x163f4596f4054E0edFFa10eF83C0F43eA69cbEB0',
+            main: '0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F',
+            kovan: '0xb3aedaaFAb6D293019bf690A6d9712151C3Cd2A3',
         },
         symbol: 'SNX',
         decimals: 18,
@@ -180,7 +180,7 @@ module.exports = [
         name: 'Tether USD',
         addresses: {
             main: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
-            kovan: '0xC8d28a80c3110478a71506e8d9Cec5A40c07cc0E',
+            kovan: '0xc895e79407955b35f434C882b8fF2D0E970FC26e',
         },
         symbol: 'USDT',
         decimals: 6,
@@ -191,7 +191,7 @@ module.exports = [
         name: 'The Graph',
         addresses: {
             main: '0xc944E90C64B2c07662A292be6244BDf05Cda44a7',
-            kovan: '0xA472F33e8aa4D9DedB581a7632c51C719980eaD0',
+            kovan: '0x04B558FAbC7eA52EEab227973bdABC0735f6C0b9',
         },
         symbol: 'GRT',
         decimals: 18,
@@ -202,7 +202,7 @@ module.exports = [
         name: 'Uniswap',
         addresses: {
             main: '0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984',
-            kovan: '0xd65064D6fd21576Fce1c7F1238616360C6c81097',
+            kovan: '0xdCC967319024DeeBbf9B5B6868F4985cFB724687',
         },
         symbol: 'UNI',
         decimals: 18,
@@ -213,7 +213,7 @@ module.exports = [
         name: 'USD Coin',
         addresses: {
             main: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
-            kovan: '0x60981B6f25a0124c4B18fA003f6f3e40E705F573',
+            kovan: '0x4B286944eA1e49154d899c86964bdfe08dEb33fe',
         },
         symbol: 'USDC',
         decimals: 6,
@@ -224,7 +224,7 @@ module.exports = [
         name: 'Wrapped Bitcoin',
         addresses: {
             main: '0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599',
-            kovan: '0x2aDf117fBA7b309BD0Ba7ce0701c241135f94AE3',
+            kovan: '0x0178fa9384972ecE033819991AcC5B87312e9ECe',
         },
         symbol: 'WBTC',
         decimals: 8,
@@ -235,7 +235,7 @@ module.exports = [
         name: 'Wrapped Ethereum',
         addresses: {
             main: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
-            kovan: '0xcd2E5d165A24176De9b23f248D29B7583F00d04F',
+            kovan: '0xc019CD28A00c13effA270bc9c62DA21787226613',
         },
         symbol: 'WETH',
         decimals: 18,
@@ -246,7 +246,7 @@ module.exports = [
         name: 'yearn.finance',
         addresses: {
             main: '0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e',
-            kovan: '0xdf81e80111179860F67f5b200B43666DdA758375',
+            kovan: '0x35F334707E08C95Ba2cFEe58e0C55Fa4Bd271B26',
         },
         symbol: 'YFI',
         decimals: 18,
