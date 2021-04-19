@@ -63,7 +63,7 @@ module.exports = [
         symbol: 'COMP',
         decimals: 18,
         eligible: 'cap3',
-        coingeckoID: 'compound-coin',
+        coingeckoID: 'compound-governance-token',
     },
     {
         name: 'Crypto.com Coin',
