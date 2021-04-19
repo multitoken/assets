@@ -63,7 +63,7 @@ module.exports = [
         symbol: 'COMP',
         decimals: 18,
         eligible: 'cap3',
-        coingeckoID: 'compound',
+        coingeckoID: 'compound-coin',
     },
     {
         name: 'Crypto.com Coin',
@@ -74,7 +74,7 @@ module.exports = [
         symbol: 'CRO',
         decimals: 8,
         eligible: 'cap3',
-        coingeckoID: 'crypto-com-coin',
+        coingeckoID: 'crypto-com-chain',
     },
     {
         name: 'Dai',
@@ -118,7 +118,7 @@ module.exports = [
         symbol: 'HOT',
         decimals: 18,
         eligible: 'cap3',
-        coingeckoID: 'holo',
+        coingeckoID: 'holotoken',
     },
     {
         name: 'Huobi Token',
@@ -163,7 +163,7 @@ module.exports = [
         symbol: 'MATIC',
         decimals: 18,
         eligible: 'cap3',
-        coingeckoID: 'polygon',
+        coingeckoID: 'matic-network',
     },
     {
         name: 'Synthetix',
@@ -174,7 +174,7 @@ module.exports = [
         symbol: 'SNX',
         decimals: 18,
         eligible: 'cap3',
-        coingeckoID: 'synthetix-network-token',
+        coingeckoID: 'havven',
     },
     {
         name: 'Tether USD',
