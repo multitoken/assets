@@ -11,249 +11,6 @@ module.exports = [
         coingeckoID: 'aave',
     },
     {
-        name: 'Basic Attention Token',
-        addresses: {
-            main: '0x0D8775F648430679A709E98d2b0Cb6250d2887EF',
-            kovan: '0x7dad0d1c1a012b8aB5F7C2fB93469440726FE7e5',
-        },
-        symbol: 'BAT',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'basic-attention-token',
-    },
-    {
-        name: 'Binance USD',
-        addresses: {
-            main: '0x4Fabb145d64652a948d72533023f6E7A623C7C53',
-            kovan: '0xb4Fa7561FEC4BB9415493b350590aB3aE524B89D',
-        },
-        symbol: 'BUSD',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'binance-usd',
-    },
-    {
-        name: 'Chainlink',
-        addresses: {
-            main: '0x514910771AF9Ca656af840dff83E8264EcF986CA',
-            kovan: '0x019137bD6A9A9B2a6D0BfA302e48cD6B2DB5086d',
-        },
-        symbol: 'LINK',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'chainlink',
-    },
-    {
-        name: 'Chiliz',
-        addresses: {
-            main: '0x3506424F91fD33084466F402d5D97f05F8e3b4AF',
-            kovan: '0x53f3efcF31bF3227d8ad65ADe5197Cc8852e99DA',
-        },
-        symbol: 'CHZ',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'chiliz',
-    },
-    {
-        name: 'Compound',
-        addresses: {
-            main: '0xc00e94Cb662C3520282E6f5717214004A7f26888',
-            kovan: '0x010dB7B4054D29a628A64493E49364b70A7A2a66',
-        },
-        symbol: 'COMP',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'compound-governance-token',
-    },
-    {
-        name: 'Crypto.com Coin',
-        addresses: {
-            main: '0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b',
-            kovan: '0x8f5baBb328d92a030229272063255fdd44CE0AC9',
-        },
-        symbol: 'CRO',
-        decimals: 8,
-        eligible: 'cap3',
-        coingeckoID: 'crypto-com-chain',
-    },
-    {
-        name: 'Dai',
-        addresses: {
-            main: '0x6B175474E89094C44Da98b954EedeAC495271d0F',
-            kovan: '0x266A9AAc60B0211D7269dd8b0e792D645d2923e6',
-        },
-        symbol: 'DAI',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'dai',
-    },
-    {
-        name: 'Decentraland',
-        addresses: {
-            main: '0x0F5D2fB29fb7d3CFeE444a200298f468908cC942',
-            kovan: '0x5F035eF52A6cABC917b39A626dd4b0d4831EfB5B',
-        },
-        symbol: 'MANA',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'decentraland',
-    },
-    {
-        name: 'FTX Token',
-        addresses: {
-            main: '0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9',
-            kovan: '0xD93284384a3761f46138127C27d485F65159a877',
-        },
-        symbol: 'FTT',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'ftx-token',
-    },
-    {
-        name: 'Holo',
-        addresses: {
-            main: '0x6c6EE5e31d828De241282B9606C8e98Ea48526E2',
-            kovan: '0x83C89638409c53a6f1eE19bCE695271b3333eB73',
-        },
-        symbol: 'HOT',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'holotoken',
-    },
-    {
-        name: 'Huobi Token',
-        addresses: {
-            main: '0x6f259637dcD74C767781E37Bc6133cd6A68aa161',
-            kovan: '0x5064741f45979addd4247233C5d34Aedd1143bee',
-        },
-        'chainId': 42,
-        symbol: 'HT',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'huobi-token',
-    },
-    {
-        name: 'Maker',
-        addresses: {
-            main: '0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2',
-            kovan: '0x920d08a365F2e9dD1DF3760aCB1A76b0f53Aa952',
-        },
-        symbol: 'MKR',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'maker',
-    },
-    {
-        name: 'Nexo',
-        addresses: {
-            main: '0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206',
-            kovan: '0x93cF4cde2fbf7d1597d33834fb336B15F87AA2cd',
-        },
-        symbol: 'NEXO',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'nexo',
-    },
-    {
-        name: 'Polygon',
-        addresses: {
-            main: '0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0',
-            kovan: '0xA5148dE71270d87E4Bd0B9E2e524178B4a3a101D',
-        },
-        symbol: 'MATIC',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'matic-network',
-    },
-    {
-        name: 'Synthetix',
-        addresses: {
-            main: '0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F',
-            kovan: '0xb3aedaaFAb6D293019bf690A6d9712151C3Cd2A3',
-        },
-        symbol: 'SNX',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'havven',
-    },
-    {
-        name: 'Tether USD',
-        addresses: {
-            main: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
-            kovan: '0xc895e79407955b35f434C882b8fF2D0E970FC26e',
-        },
-        symbol: 'USDT',
-        decimals: 6,
-        eligible: 'cap3',
-        coingeckoID: 'tether',
-    },
-    {
-        name: 'The Graph',
-        addresses: {
-            main: '0xc944E90C64B2c07662A292be6244BDf05Cda44a7',
-            kovan: '0x04B558FAbC7eA52EEab227973bdABC0735f6C0b9',
-        },
-        symbol: 'GRT',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'the-graph',
-    },
-    {
-        name: 'Uniswap',
-        addresses: {
-            main: '0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984',
-            kovan: '0xdCC967319024DeeBbf9B5B6868F4985cFB724687',
-        },
-        symbol: 'UNI',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'uniswap',
-    },
-    {
-        name: 'USD Coin',
-        addresses: {
-            main: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
-            kovan: '0x4B286944eA1e49154d899c86964bdfe08dEb33fe',
-        },
-        symbol: 'USDC',
-        decimals: 6,
-        eligible: 'cap3',
-        coingeckoID: 'usd-coin',
-    },
-    {
-        name: 'Wrapped Bitcoin',
-        addresses: {
-            main: '0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599',
-            kovan: '0x0178fa9384972ecE033819991AcC5B87312e9ECe',
-        },
-        symbol: 'WBTC',
-        decimals: 8,
-        eligible: 'cap3',
-        coingeckoID: 'wrapped-bitcoin',
-    },
-    {
-        name: 'Wrapped Ethereum',
-        addresses: {
-            main: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
-            kovan: '0xc019CD28A00c13effA270bc9c62DA21787226613',
-        },
-        symbol: 'WETH',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'weth',
-    },
-    {
-        name: 'yearn.finance',
-        addresses: {
-            main: '0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e',
-            kovan: '0x35F334707E08C95Ba2cFEe58e0C55Fa4Bd271B26',
-        },
-        symbol: 'YFI',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'yearn-finance',
-    },
-    {
         name: 'AlphaFinance',
         addresses: {
             main: '',
@@ -351,6 +108,28 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'balancer',
+    },
+    {
+        name: 'Basic Attention Token',
+        addresses: {
+            main: '0x0D8775F648430679A709E98d2b0Cb6250d2887EF',
+            kovan: '0x7dad0d1c1a012b8aB5F7C2fB93469440726FE7e5',
+        },
+        symbol: 'BAT',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'basic-attention-token',
+    },
+    {
+        name: 'Binance USD',
+        addresses: {
+            main: '0x4Fabb145d64652a948d72533023f6E7A623C7C53',
+            kovan: '0xb4Fa7561FEC4BB9415493b350590aB3aE524B89D',
+        },
+        symbol: 'BUSD',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'binance-usd',
     },
     {
         name: 'Bitcoin',
@@ -474,6 +253,28 @@ module.exports = [
         coingeckoID: 'celo',
     },
     {
+        name: 'Chainlink',
+        addresses: {
+            main: '0x514910771AF9Ca656af840dff83E8264EcF986CA',
+            kovan: '0x019137bD6A9A9B2a6D0BfA302e48cD6B2DB5086d',
+        },
+        symbol: 'LINK',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'chainlink',
+    },
+    {
+        name: 'Chiliz',
+        addresses: {
+            main: '0x3506424F91fD33084466F402d5D97f05F8e3b4AF',
+            kovan: '0x53f3efcF31bF3227d8ad65ADe5197Cc8852e99DA',
+        },
+        symbol: 'CHZ',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'chiliz',
+    },
+    {
         name: 'Civic',
         addresses: {
             main: '',
@@ -485,6 +286,28 @@ module.exports = [
         coingeckoID: 'civic',
     },
     {
+        name: 'Compound',
+        addresses: {
+            main: '0xc00e94Cb662C3520282E6f5717214004A7f26888',
+            kovan: '0x010dB7B4054D29a628A64493E49364b70A7A2a66',
+        },
+        symbol: 'COMP',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'compound-governance-token',
+    },
+    {
+        name: 'Crypto.com Coin',
+        addresses: {
+            main: '0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b',
+            kovan: '0x8f5baBb328d92a030229272063255fdd44CE0AC9',
+        },
+        symbol: 'CRO',
+        decimals: 8,
+        eligible: 'cap3',
+        coingeckoID: 'crypto-com-chain',
+    },
+    {
         name: 'Curve',
         addresses: {
             main: '',
@@ -494,6 +317,28 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'curve-dao-token',
+    },
+    {
+        name: 'Dai',
+        addresses: {
+            main: '0x6B175474E89094C44Da98b954EedeAC495271d0F',
+            kovan: '0x266A9AAc60B0211D7269dd8b0e792D645d2923e6',
+        },
+        symbol: 'DAI',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'dai',
+    },
+    {
+        name: 'Decentraland',
+        addresses: {
+            main: '0x0F5D2fB29fb7d3CFeE444a200298f468908cC942',
+            kovan: '0x5F035eF52A6cABC917b39A626dd4b0d4831EfB5B',
+        },
+        symbol: 'MANA',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'decentraland',
     },
     {
         name: 'Defichain',
@@ -628,6 +473,17 @@ module.exports = [
         coingeckoID: 'flow',
     },
     {
+        name: 'FTX Token',
+        addresses: {
+            main: '0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9',
+            kovan: '0xD93284384a3761f46138127C27d485F65159a877',
+        },
+        symbol: 'FTT',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'ftx-token',
+    },
+    {
         name: 'Funfair',
         addresses: {
             main: '',
@@ -681,6 +537,29 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'handshake',
+    },
+    {
+        name: 'Holo',
+        addresses: {
+            main: '0x6c6EE5e31d828De241282B9606C8e98Ea48526E2',
+            kovan: '0x83C89638409c53a6f1eE19bCE695271b3333eB73',
+        },
+        symbol: 'HOT',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'holotoken',
+    },
+    {
+        name: 'Huobi Token',
+        addresses: {
+            main: '0x6f259637dcD74C767781E37Bc6133cd6A68aa161',
+            kovan: '0x5064741f45979addd4247233C5d34Aedd1143bee',
+        },
+        chainId: 42,
+        symbol: 'HT',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'huobi-token',
     },
     {
         name: 'Hxro',
@@ -738,17 +617,6 @@ module.exports = [
         coingeckoID: 'iota',
     },
     {
-        name: 'KeepNetwork',
-        addresses: {
-            main: '',
-            kovan: '0xcC4ED7500ECc54DDd523209EE9369232b8cE6fc2',
-        },
-        symbol: 'KEEP',
-        decimals: 18,
-        eligible: 'cap3',
-        coingeckoID: 'keep-network',
-    },
-    {
         name: 'Keeperdao',
         addresses: {
             main: '',
@@ -758,6 +626,17 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'rook',
+    },
+    {
+        name: 'KeepNetwork',
+        addresses: {
+            main: '',
+            kovan: '0xcC4ED7500ECc54DDd523209EE9369232b8cE6fc2',
+        },
+        symbol: 'KEEP',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'keep-network',
     },
     {
         name: 'Kin',
@@ -826,6 +705,17 @@ module.exports = [
         coingeckoID: 'maecenas',
     },
     {
+        name: 'Maker',
+        addresses: {
+            main: '0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2',
+            kovan: '0x920d08a365F2e9dD1DF3760aCB1A76b0f53Aa952',
+        },
+        symbol: 'MKR',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'maker',
+    },
+    {
         name: 'Meta',
         addresses: {
             main: '',
@@ -890,6 +780,17 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'neo',
+    },
+    {
+        name: 'Nexo',
+        addresses: {
+            main: '0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206',
+            kovan: '0x93cF4cde2fbf7d1597d33834fb336B15F87AA2cd',
+        },
+        symbol: 'NEXO',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'nexo',
     },
     {
         name: 'Numeraire',
@@ -991,6 +892,17 @@ module.exports = [
         coingeckoID: 'polkadot',
     },
     {
+        name: 'Polygon',
+        addresses: {
+            main: '0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0',
+            kovan: '0xA5148dE71270d87E4Bd0B9E2e524178B4a3a101D',
+        },
+        symbol: 'MATIC',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'matic-network',
+    },
+    {
         name: 'PowertradeFuel',
         addresses: {
             main: '',
@@ -1079,10 +991,10 @@ module.exports = [
         coingeckoID: 'serum',
     },
     {
-        name: 'SolaToken',
+        name: 'Solana',
         addresses: {
             main: '',
-            kovan: '0x414F155353C44352Ab0c67a4C856d5927e8AeA85',
+            kovan: '0x38Cc7d6C8148737b733C4DB23d6EcDB8951D9FF1',
         },
         symbol: 'SOL',
         decimals: 18,
@@ -1090,10 +1002,10 @@ module.exports = [
         coingeckoID: 'solana',
     },
     {
-        name: 'Solana',
+        name: 'SolaToken',
         addresses: {
             main: '',
-            kovan: '0x38Cc7d6C8148737b733C4DB23d6EcDB8951D9FF1',
+            kovan: '0x414F155353C44352Ab0c67a4C856d5927e8AeA85',
         },
         symbol: 'SOL',
         decimals: 18,
@@ -1123,6 +1035,17 @@ module.exports = [
         coingeckoID: 'sushi',
     },
     {
+        name: 'Synthetix',
+        addresses: {
+            main: '0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F',
+            kovan: '0xb3aedaaFAb6D293019bf690A6d9712151C3Cd2A3',
+        },
+        symbol: 'SNX',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'havven',
+    },
+    {
         name: 'Terra',
         addresses: {
             main: '',
@@ -1143,6 +1066,28 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'tether',
+    },
+    {
+        name: 'Tether USD',
+        addresses: {
+            main: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+            kovan: '0xc895e79407955b35f434C882b8fF2D0E970FC26e',
+        },
+        symbol: 'USDT',
+        decimals: 6,
+        eligible: 'cap3',
+        coingeckoID: 'tether',
+    },
+    {
+        name: 'The Graph',
+        addresses: {
+            main: '0xc944E90C64B2c07662A292be6244BDf05Cda44a7',
+            kovan: '0x04B558FAbC7eA52EEab227973bdABC0735f6C0b9',
+        },
+        symbol: 'GRT',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'the-graph',
     },
     {
         name: 'ThetaToken',
@@ -1211,6 +1156,28 @@ module.exports = [
         coingeckoID: 'uma',
     },
     {
+        name: 'Uniswap',
+        addresses: {
+            main: '0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984',
+            kovan: '0xdCC967319024DeeBbf9B5B6868F4985cFB724687',
+        },
+        symbol: 'UNI',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'uniswap',
+    },
+    {
+        name: 'USD Coin',
+        addresses: {
+            main: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+            kovan: '0x4B286944eA1e49154d899c86964bdfe08dEb33fe',
+        },
+        symbol: 'USDC',
+        decimals: 6,
+        eligible: 'cap3',
+        coingeckoID: 'usd-coin',
+    },
+    {
         name: 'Vechain',
         addresses: {
             main: '',
@@ -1277,6 +1244,28 @@ module.exports = [
         coingeckoID: 'wrapped-bitcoin',
     },
     {
+        name: 'Wrapped Bitcoin',
+        addresses: {
+            main: '0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599',
+            kovan: '0x0178fa9384972ecE033819991AcC5B87312e9ECe',
+        },
+        symbol: 'WBTC',
+        decimals: 8,
+        eligible: 'cap3',
+        coingeckoID: 'wrapped-bitcoin',
+    },
+    {
+        name: 'Wrapped Ethereum',
+        addresses: {
+            main: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
+            kovan: '0xc019CD28A00c13effA270bc9c62DA21787226613',
+        },
+        symbol: 'WETH',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'weth',
+    },
+    {
         name: 'Xrp',
         addresses: {
             main: '',
@@ -1286,6 +1275,17 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'ripple',
+    },
+    {
+        name: 'yearn.finance',
+        addresses: {
+            main: '0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e',
+            kovan: '0x35F334707E08C95Ba2cFEe58e0C55Fa4Bd271B26',
+        },
+        symbol: 'YFI',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: 'yearn-finance',
     },
     {
         name: 'Zcash',
@@ -1320,5 +1320,4 @@ module.exports = [
         eligible: 'cap3',
         coingeckoID: 'zkswap',
     },
-    
 ];

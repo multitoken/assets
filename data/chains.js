@@ -6,5 +6,5 @@ module.exports = [
     {
         id: 42,
         name: 'kovan',
-    }
+    },
 ];
