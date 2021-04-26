@@ -3,7 +3,7 @@ module.exports = [
         name: '0x',
         addresses: {
             main: '0xE41d2489571d322189246DaFA5ebDe1F4699F498',
-            kovan: '0xBe5C513cfD2C6BEe16CFbfa49DeC92cBd0237cf0',
+            kovan: '0x8b8CFA2f2411839c7c29089913a9734637a26383',
         },
         symbol: 'ZRX',
         decimals: 18,
@@ -14,7 +14,7 @@ module.exports = [
         name: '1inch',
         addresses: {
             main: '0x111111111117dC0aa78b770fA6A738034120C302',
-            kovan: '0x09FD541c323c4749dA16a05025C4696e2045212e',
+            kovan: '0x8c4c3c9b503700431B25840F26Cef3896774E913',
         },
         symbol: '1INCH',
         decimals: 18,
@@ -36,7 +36,7 @@ module.exports = [
         name: 'Alpha Finance',
         addresses: {
             main: '0xa1faa113cbE53436Df28FF0aEe54275c13B40975',
-            kovan: '0x2928dCB3c248da32a1646C04B4F7F18877d6Ce17',
+            kovan: '0x74A2afFdbb8Caf17f5CA650Bc9303a559Ac24B24',
         },
         symbol: 'ALPHA',
         decimals: 18,
@@ -47,7 +47,7 @@ module.exports = [
         name: 'Amp',
         addresses: {
             main: '0xfF20817765cB7f73d4bde2e66e067E58D11095C2',
-            kovan: '0x06a7A9B5A5dC8a5496368e620D006790467cf1d5',
+            kovan: '0xFd74354313b7a8cFc59F779F6Ba5b0053E75A16B',
         },
         symbol: 'AMP',
         decimals: 18,
@@ -69,7 +69,7 @@ module.exports = [
         name: 'Ankr',
         addresses: {
             main: '0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4',
-            kovan: '0x0B2B3D159661E3394e0B66179F558bad39C24FBE',
+            kovan: '0x6412578d9eB222964bB5fcf2eeB0f7AeE09fe629',
         },
         symbol: 'ANKR',
         decimals: 18,
@@ -80,7 +80,7 @@ module.exports = [
         name: 'API3',
         addresses: {
             main: '0x0b38210ea11411557c13457D4dA7dC6ea731B88a',
-            kovan: '0x20F7345bF8C4C8E1663cbEbD1d685e83671f1589',
+            kovan: '0x6A86dF5759F86e4d69A474c90f4089Be2dA87950',
         },
         symbol: 'API3',
         decimals: 18,
@@ -91,7 +91,7 @@ module.exports = [
         name: 'Audius',
         addresses: {
             main: '0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998',
-            kovan: '0xA33Cf3e680DA8e88ba8B94fc9Fa295E2a13d5b8e',
+            kovan: '0xA98E1C95890F03723662cbf0809EEb17d7d5B346',
         },
         symbol: 'AUDIO',
         decimals: 18,
@@ -102,7 +102,7 @@ module.exports = [
         name: 'Augur',
         addresses: {
             main: '0x221657776846890989a759BA2973e427DfF5C9bB',
-            kovan: '0xD35267ee8020A0ABAEEC9ba04c0A2D3E838930dA',
+            kovan: '0x5bBA5F0046836c43164B75c5148a3a4253479355',
         },
         symbol: 'REPv2',
         decimals: 18,
@@ -113,7 +113,7 @@ module.exports = [
         name: 'Balancer',
         addresses: {
             main: '0xba100000625a3754423978a60c9317c58a424e3D',
-            kovan: '0x4938918c7cFe27CB0Dbf883e07d8Cb8F932ec7a4',
+            kovan: '0xc33BdB953B982f7C3010F908FeF32d0b251d6b29',
         },
         symbol: 'BAL',
         decimals: 18,
@@ -124,7 +124,7 @@ module.exports = [
         name: 'Bancor',
         addresses: {
             main: '0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C',
-            kovan: '',
+            kovan: '0x8b729d530d1Fdb6510ffd52934205B80dbc9bC99',
         },
         symbol: 'BAT',
         decimals: 18,
@@ -157,7 +157,7 @@ module.exports = [
         name: 'Bloom',
         addresses: {
             main: '0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e',
-            kovan: '0x6c0F115F85be85C726498C76607cb74B3fa9A934',
+            kovan: '0x643f466Dde4F53Fe3948606fF64155CC02dEcCE0',
         },
         symbol: 'BLT',
         decimals: 18,
@@ -179,7 +179,7 @@ module.exports = [
         name: 'Celer Network',
         addresses: {
             main: '0x4F9254C83EB525f9FCf346490bbb3ed28a81C667',
-            kovan: '0xb91ac514d57FfDE08f9420221C8e868b3bD1567f',
+            kovan: '0xC175c8994a738616255E1a8BA6278d9341199994',
         },
         symbol: 'CELR',
         decimals: 18,
@@ -212,7 +212,7 @@ module.exports = [
         name: 'Civic',
         addresses: {
             main: '0x41e5560054824eA6B0732E656E3Ad64E20e94E45',
-            kovan: '0x773b0394e8b42BeE18Bc728DA3Baa88a9cA9E33C',
+            kovan: '0x22bf885bf1c9cc6a12d66929A8C22CC95AcfB5CD',
         },
         symbol: 'CVC',
         decimals: 8,
@@ -245,7 +245,7 @@ module.exports = [
         name: 'Curve DAO Token',
         addresses: {
             main: '0xD533a949740bb3306d119CC777fa900bA034cd52',
-            kovan: '0xC84754207962142965512F224Ea4369124aa7Aa2',
+            kovan: '0xeC2E1EF466D53d16e70DEE0b0BcBC7020F8E58c5',
         },
         symbol: 'CRV',
         decimals: 18,
@@ -278,7 +278,7 @@ module.exports = [
         name: 'dHEDGE DAO',
         addresses: {
             main: '0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84',
-            kovan: '0x34fc97318CAB5007A8906E1d5400B67b832Ede12',
+            kovan: '0xB950f58ad1dE215Fa8B4afD4a5349bd2d3E983A5',
         },
         symbol: 'DHT',
         decimals: 18,
@@ -289,7 +289,7 @@ module.exports = [
         name: 'DMarket',
         addresses: {
             main: '0x2ccbFF3A042c68716Ed2a2Cb0c544A9f1d1935E1',
-            kovan: '0x811a9B3aFEcfFa1dB262C84805D388e1FD84f6d4',
+            kovan: '0x1A39139206C1449bD308283a57C4a4457Df0E3c0',
         },
         symbol: 'DMT',
         decimals: 8,
@@ -300,7 +300,7 @@ module.exports = [
         name: 'DODO',
         addresses: {
             main: '0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd',
-            kovan: '0x3B9dDEd8545166f8E5AF8Db57E3c74f3179C43Ee',
+            kovan: '0xe28AAa01A7Ada96b89D5194C49eE63830765ecFE',
         },
         symbol: 'DODO',
         decimals: 18,
@@ -311,7 +311,7 @@ module.exports = [
         name: 'Fei Protocol',
         addresses: {
             main: '0x956F47F50A910163D8BF957Cf5846D573E7f87CA',
-            kovan: '0x962C3c59c39391eC0E7Aa1Fc959947e85Ad6eA3F',
+            kovan: '0xf07d9ee6d6762286552B2784643c83a1217F9b1a',
         },
         symbol: 'FEI',
         decimals: 18,
@@ -336,7 +336,7 @@ module.exports = [
         name: 'FunFair',
         addresses: {
             main: '0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b',
-            kovan: '0x8AC3f1767535B8779D73c3053f8B5a305C8e007a',
+            kovan: '0xB7f80212d26673991a5bc86E60BAF12718507223',
         },
         symbol: 'FUN',
         decimals: 8,
@@ -350,7 +350,7 @@ module.exports = [
         name: 'Gems',
         addresses: {
             main: '0xc7BbA5b765581eFb2Cdd2679DB5Bea9eE79b201f',
-            kovan: '0x525fBF6066Acf629B37B783Fa1014d69a126d329',
+            kovan: '0xF5481F3e9533C5C10fFD05869Ea1E9423a1ab751',
         },
         symbol: 'GEM',
         decimals: 18,
@@ -361,7 +361,7 @@ module.exports = [
         name: 'Gifto',
         addresses: {
             main: '0xC5bBaE50781Be1669306b9e001EFF57a2957b09d',
-            kovan: '0x6b71b948ff1EFB191d66a2da5078844C706FbBf5',
+            kovan: '0xe7D7B3f552987dd140e19e8E74bAD9b08B5dD557',
         },
         symbol: 'GTO',
         decimals: 5,
@@ -395,7 +395,7 @@ module.exports = [
         name: 'Hxro',
         addresses: {
             main: '0x4bD70556ae3F8a6eC6C4080A0C327B24325438f3',
-            kovan: '0xf995914193035425320c5A98B7102Dda7A33a37D',
+            kovan: '0xDdC6210956aDbDe0eB61584eF96216364283ccB4',
         },
         symbol: 'HXRO',
         decimals: 18,
@@ -406,7 +406,7 @@ module.exports = [
         name: 'Injective Protocol',
         addresses: {
             main: '0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30',
-            kovan: '0xA327D371575ca6FA9Ea0f42A8c9d0aEa7Cebffbd',
+            kovan: '0x6c50B4B99088e334F238561DD41E8e5ad737dc74',
         },
         symbol: 'INJ',
         decimals: 18,
@@ -417,7 +417,7 @@ module.exports = [
         name: 'Keep Network',
         addresses: {
             main: '0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC',
-            kovan: '0xcC4ED7500ECc54DDd523209EE9369232b8cE6fc2',
+            kovan: '0x1d363225eB3C1Da50CFdC22821147E32e6Cdc39B',
         },
         symbol: 'KEEP',
         decimals: 18,
@@ -428,7 +428,7 @@ module.exports = [
         name: 'Keeper DAO',
         addresses: {
             main: '0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a',
-            kovan: '0x7A8aFba6016ce102Ba51148E093323Bf0c37b728',
+            kovan: '0xC422725cF64ef2D106F55Da564716c6EdE922c76',
         },
         symbol: 'ROOK',
         decimals: 18,
@@ -442,7 +442,7 @@ module.exports = [
         name: 'Kyber Network Crystal',
         addresses: {
             main: '0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202',
-            kovan: '0xA9d670Fb5465070D1B33bc62D233E1807e13759E',
+            kovan: '0x3d689ED4E3bF00890105B655b7F3e9Cf58aFB9E0',
         },
         symbol: 'KNC',
         decimals: 18,
@@ -453,7 +453,7 @@ module.exports = [
         name: 'Livepeer',
         addresses: {
             main: '0x58b6A8A3302369DAEc383334672404Ee733aB239',
-            kovan: '0xe97B8b274faB54E6e4106991113D0EDF13A64F02',
+            kovan: '0x040956a13bDaA101bAfa2745e86fFA10939C5A90',
         },
         symbol: 'LPT',
         decimals: 18,
@@ -464,7 +464,7 @@ module.exports = [
         name: 'Loopring',
         addresses: {
             main: '0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD',
-            kovan: '0x4f893fCA326095c907e065CE79687a4e1AE044E0',
+            kovan: '0x3fcBFC8A2409DEbF3D670d9bF36539d73E3E22a5',
         },
         symbol: 'LRC',
         decimals: 18,
@@ -478,7 +478,7 @@ module.exports = [
         name: 'Maecenas',
         addresses: {
             main: '0xfec0cF7fE078a500abf15F1284958F22049c2C7e',
-            kovan: '0x9cbcdfeB8f1Af439AE3E78d566538155c6B62881',
+            kovan: '0xc0E10781E6ba74114e353FfA2a2941ea576f6BeF',
         },
         symbol: 'ART',
         decimals: 18,
@@ -506,7 +506,7 @@ module.exports = [
         name: 'Mirror Protocol',
         addresses: {
             main: '0x09a3EcAFa817268f77BE1283176B946C4ff2E608',
-            kovan: '0x6b2dC343dac12c61283323Fd634debBcA0ddbF7e',
+            kovan: '0x19910b3d3B248652e838Da85F839a2F66d6bb59D',
         },
         symbol: 'MIR',
         decimals: 18,
@@ -528,7 +528,7 @@ module.exports = [
         name: 'Numeraire',
         addresses: {
             main: '0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671',
-            kovan: '0xd7F5E71bd2446d12fD0903aA75D0BA9CFa0db618',
+            kovan: '0x109242EEba50F753e80F04140Ad9191a2E99bE5c',
         },
         symbol: 'NMR',
         decimals: 18,
@@ -539,7 +539,7 @@ module.exports = [
         name: 'OMG Network',
         addresses: {
             main: '0xd26114cd6EE289AccF82350c8d8487fedB8A0C07',
-            kovan: '0xF2Dcd5eb7b1cb8825A44DCBcb9C2Ab73F2876fb9',
+            kovan: '0xEd3b264212Bd747aC2Af5b55117576bED2aB8700',
         },
         symbol: 'OMG',
         decimals: 18,
@@ -550,7 +550,7 @@ module.exports = [
         name: 'Origin Protocol',
         addresses: {
             main: '0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26',
-            kovan: '0xD973a4D3DF4A4C1E9D9a42Be24424a7518570F8C',
+            kovan: '0x32cD23DeF14127a1C217F202DbCe33B9dE5Fd8c1',
         },
         symbol: 'OGN',
         decimals: 18,
@@ -561,7 +561,7 @@ module.exports = [
         name: 'Perpetual Protocol',
         addresses: {
             main: '0xbC396689893D065F41bc2C6EcbeE5e0085233447',
-            kovan: '0x7cB55b79c6f4DD6ae7B0cb4D16B5FF474F7638fC',
+            kovan: '0xb009Ddd956d5D4C88ea4D58e4214195A2ef97F05',
         },
         symbol: 'PERP',
         decimals: 18,
@@ -583,7 +583,7 @@ module.exports = [
         name: 'PowerTrade Fuel',
         addresses: {
             main: '0xC57d533c50bC22247d49a368880fb49a1caA39F7',
-            kovan: '0x546DE7DBE4DD6763248564602B7003022Bc41ef2',
+            kovan: '0x9b6a8Ac1D2B01ff3AA254BD8497cE16d1f4ad84F',
         },
         symbol: 'PTF',
         decimals: 18,
@@ -594,7 +594,7 @@ module.exports = [
         name: 'Rally',
         addresses: {
             main: '0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b',
-            kovan: '0x411775f827F2C9a9142846D661EBBef52ce3d5A8',
+            kovan: '0xA4b2d953C4E9845551112d875E9C54dec0cf5EE8',
         },
         symbol: 'RLY',
         decimals: 18,
@@ -605,7 +605,7 @@ module.exports = [
         name: 'Rarible',
         addresses: {
             main: '0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF',
-            kovan: '0x6812f35c87Bb44CC9AD105ca9C054A5f0F4F0E57',
+            kovan: '0x5C12aCc22b6F131B3544134e021e6FE584baD29f',
         },
         symbol: 'RARI',
         decimals: 18,
@@ -616,7 +616,7 @@ module.exports = [
         name: 'Republic',
         addresses: {
             main: '0x408e41876cCCDC0F92210600ef50372656052a38',
-            kovan: '0x50A18345d5F607f74C602499abD685E1E26fB4F6',
+            kovan: '0xf7d7C3807b9D86e5C0E10cfa96AAD230d1F06A3f',
         },
         symbol: 'REN',
         decimals: 18,
@@ -630,7 +630,7 @@ module.exports = [
         name: 'Reserve Rights',
         addresses: {
             main: '0x8762db106B2c2A0bccB3A80d1Ed41273552616E8',
-            kovan: '0x29715E598a9ab2F76893874F6520edDF5AdEa32B',
+            kovan: '0x922971457a786Fb4e214f9229E61eF1506b428ce',
         },
         symbol: 'RSR',
         decimals: 18,
@@ -644,7 +644,7 @@ module.exports = [
         name: 'Serum',
         addresses: {
             main: '0x476c5E26a75bd202a9683ffD34359C0CC15be0fF',
-            kovan: '0x07C5714A70b31eb2302f569452b35F2070aa2C63',
+            kovan: '0x827c8577F5258886E312D40527343733735E1547',
         },
         symbol: 'SRM',
         decimals: 6,
@@ -655,7 +655,7 @@ module.exports = [
         name: 'Sushi',
         addresses: {
             main: '0x6B3595068778DD592e39A122f4f5a5cF09C90fE2',
-            kovan: '0xb9429574a27A07f1C00c86E2Fc43F18CE4b97F4e',
+            kovan: '0x0597A61F77552922F88AD269f72fC9928AaBAD4e',
         },
         symbol: 'SUSHI',
         decimals: 18,
@@ -705,7 +705,7 @@ module.exports = [
         name: 'THORChain',
         addresses: {
             main: '0x3155BA85D5F96b2d030a4966AF206230e46849cb',
-            kovan: '0xd580e2AF1292cFdF6C47DA906b2B8447dA8Fcc9c',
+            kovan: '0x2E13AD60cd2c8E9baee386BCfd33b787F6242d76',
         },
         symbol: 'RUNE',
         decimals: 18,
@@ -719,7 +719,7 @@ module.exports = [
         name: 'Tribe',
         addresses: {
             main: '0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B',
-            kovan: '0x30DcF63761A7083aA492F57BCC7d4D16225275AC',
+            kovan: '0x5396Ef312916bB4661297cAe3Fa5b62f454Fda11',
         },
         symbol: 'TRIBE',
         decimals: 18,
@@ -730,7 +730,7 @@ module.exports = [
         name: 'Uma',
         addresses: {
             main: '0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828',
-            kovan: '0xC16Bb36c1A75d84b2ebddB09A3Cf5845095e55D4',
+            kovan: '0x2d5De40d5006B97aB0Dc841EbdA84AadA8EFC976',
         },
         symbol: 'UMA',
         decimals: 18,
@@ -763,7 +763,7 @@ module.exports = [
         name: 'Wootrade Network',
         addresses: {
             main: '0x4691937a7508860F876c9c0a2a617E7d9E945D4B',
-            kovan: '0x7d0E7db2E5392040a88467bf7b8E90b24Ce56499',
+            kovan: '0x58DFCf59138E0ccc0082c5FA8f7848d13921383a',
         },
         symbol: 'WOO',
         decimals: 18,
@@ -810,7 +810,7 @@ module.exports = [
         name: 'ZKSwap',
         addresses: {
             main: '0xe4815AE53B124e7263F08dcDBBB757d41Ed658c6',
-            kovan: '0xe0A18f8E81C787895cb6C70F9e1a0e8a7dcc4712',
+            kovan: '0xc901cd3Fe822420c424425094dA7676aF8C65848',
         },
         symbol: 'ZKS',
         decimals: 18,
