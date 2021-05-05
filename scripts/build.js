@@ -2,7 +2,9 @@ const fs = require('fs');
 const path = require('path');
 
 const chains = require('../data/chains.js');
-const tokens = require('../data/tokens.js');
+const tokensETH = require('../data/tokens-eth.js');
+const tokensBSC = require('../data/tokens-bsc.js');
+const tokens = tokensETH.concat(tokensBSC);
 
 const FILE_PATHS = {
     eligible: path.resolve(__dirname, '../assets/eligible.json'),

@@ -7,4 +7,8 @@ module.exports = [
         id: 42,
         name: 'kovan',
     },
+    {
+        id: 56,
+        name: 'bsc',
+    },
 ];

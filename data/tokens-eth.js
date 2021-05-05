@@ -328,9 +328,7 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'ftx-token',
-        checks: {
-            decimalsAndSymbol: false,
-        },
+        checks: { decimalsAndSymbol: false },
     },
     {
         name: 'FunFair',
@@ -342,9 +340,7 @@ module.exports = [
         decimals: 8,
         eligible: 'cap3',
         coingeckoID: 'funfair',
-        checks: {
-            coingecko: false,
-        },
+        checks: { coingecko: false },
     },
     {
         name: 'Gems',
@@ -434,9 +430,7 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'rook',
-        checks: {
-            coingecko: false,
-        },
+        checks: { coingecko: false },
     },
     {
         name: 'Kyber Network Crystal',
@@ -470,9 +464,7 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'loopring',
-        checks: {
-            decimalsAndSymbol: false,
-        },
+        checks: { decimalsAndSymbol: false },
     },
     {
         name: 'Maecenas',
@@ -484,9 +476,7 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'maecenas',
-        checks: {
-            decimalsAndSymbol: false,
-        },
+        checks: { decimalsAndSymbol: false },
     },
     {
         name: 'Maker',
@@ -498,9 +488,7 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'maker',
-        checks: {
-            decimalsAndSymbol: false,
-        },
+        checks: { decimalsAndSymbol: false },
     },
     {
         name: 'Mirror Protocol',
@@ -622,9 +610,7 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'republic-protocol',
-        checks: {
-            coingecko: false,
-        },
+        checks: { coingecko: false },
     },
     {
         name: 'Reserve Rights',
@@ -636,9 +622,7 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'reserve-rights-token',
-        checks: {
-            coingecko: false,
-        },
+        checks: { coingecko: false },
     },
     {
         name: 'Serum',
@@ -672,9 +656,7 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'havven',
-        checks: {
-            coingecko: false,
-        },
+        checks: { coingecko: false },
     },
     {
         name: 'Tether USD',
@@ -686,9 +668,7 @@ module.exports = [
         decimals: 6,
         eligible: 'cap3',
         coingeckoID: 'tether',
-        checks: {
-            coingecko: false,
-        },
+        checks: { coingecko: false },
     },
     {
         name: 'The Graph',
@@ -711,9 +691,7 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'thorchain-erc20',
-        checks: {
-            coingecko: false,
-        },
+        checks: { coingecko: false },
     },
     {
         name: 'Tribe',
@@ -791,9 +769,7 @@ module.exports = [
         decimals: 18,
         eligible: 'cap3',
         coingeckoID: 'weth',
-        checks: {
-            coingecko: false,
-        },
+        checks: { coingecko: false },
     },
     {
         name: 'yearn.finance',
