@@ -58,7 +58,7 @@ module.exports = [
         name: 'Ampleforth',
         addresses: {
             main: '0xD46bA6D942050d489DBd938a2C909A5d5039A161',
-            kovan: '0x2C2c78Ad2959d155cb346aBEaC8080ed8dBB28a8',
+            kovan: '0xB2009846862111a026C57ef573cFfDeBD635993C',
         },
         symbol: 'AMPL',
         decimals: 9,
