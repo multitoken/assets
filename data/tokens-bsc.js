@@ -162,6 +162,15 @@ module.exports = [
         coingeckoID: 'litecoin',
     },
     {
+        name: 'Midas Dollar',
+        addresses: { bsc: '0x35e869B7456462b81cdB5e6e42434bD27f3F788c' },
+        symbol: 'MDO',
+        decimals: 18,
+        precision: 3,
+        eligible: 'cap3',
+        coingeckoID: 'midas-dollar',
+    },
+    {
         name: 'PancakeSwap Token',
         addresses: { bsc: '0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82' },
         symbol: 'CAKE',
