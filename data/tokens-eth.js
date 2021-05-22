@@ -1,5 +1,27 @@
 module.exports = [
     {
+        name: 'BSC TOP 20 liquidity',
+        addresses: {
+            main: '0x0',
+            kovan: '0x5f8cf39c728a774b8af13d3e981b9e386034e40c',
+        },
+        symbol: 'BTOP20',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: '0x',
+    },
+    {
+        name: 'Pancake Top 20',
+        addresses: {
+            main: '0x0',
+            kovan: '0x85ab0c37b16d3efdc934d069dae023aee6e26816',
+        },
+        symbol: 'PCTOP20L',
+        decimals: 18,
+        eligible: 'cap3',
+        coingeckoID: '0x',
+    },
+    {
         name: '0x',
         addresses: {
             main: '0xE41d2489571d322189246DaFA5ebDe1F4699F498',

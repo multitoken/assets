@@ -1,5 +1,27 @@
 module.exports = [
     {
+        name: 'BSC TOP 20 liquidity',
+        addresses: {
+            bsc: '0cx713595f30af02051c75e138e6ca879d5e4d22bb',
+        },
+        symbol: 'BTOP20',
+        decimals: 18,
+        precision: 7,
+        eligible: 'cap3',
+        coingeckoID: '0x',
+    },
+    {
+        name: 'Pancake Top 20',
+        addresses: {
+            bsc: '0x763e603784c0a53d14b9b6db89a6c051e3da2c8c',
+        },
+        symbol: 'PCTOP20L',
+        decimals: 18,
+        precision: 7,
+        eligible: 'cap3',
+        coingeckoID: '0x',
+    },
+    {
         name: 'Alpha Finance',
         addresses: { bsc: '0xa1faa113cbE53436Df28FF0aEe54275c13B40975' },
         symbol: 'ALPHA',
