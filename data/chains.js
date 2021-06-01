@@ -11,4 +11,8 @@ module.exports = [
         id: 56,
         name: 'bsc',
     },
+    {
+        id: 80001,
+        name: 'mumbai',
+    },
 ];
