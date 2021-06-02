@@ -4,7 +4,8 @@ const path = require('path');
 const chains = require('../data/chains.js');
 const tokensETH = require('../data/tokens-eth.js');
 const tokensBSC = require('../data/tokens-bsc.js');
-const tokens = tokensETH.concat(tokensBSC);
+const tokensPolygon = require('../data/tokens-polygon.js');
+const tokens = tokensETH.concat(tokensBSC).concat(tokensPolygon);
 
 const FILE_PATHS = {
     eligible: path.resolve(__dirname, '../assets/eligible.json'),
