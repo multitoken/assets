@@ -12,7 +12,7 @@ module.exports = [
         name: 'bsc',
     },
     {
-        id: 80001,
-        name: 'mumbai',
+        id: 137,
+        name: 'matic',
     },
 ];

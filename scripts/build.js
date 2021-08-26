@@ -36,13 +36,17 @@ const _buildTokens = () => {
                 continue;
             }
 
+            const logoURI = token.logoURI
+                ? token.logoURI
+                : `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${token.addresses.main}/logo.png`;
+
             result.tokens.push({
                 address: token.addresses[chain.name],
                 chainId: chain.id,
                 name: token.name,
                 symbol: token.symbol,
                 decimals: token.decimals,
-                logoURI: `https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/${token.addresses.main}/logo.png`,
+                logoURI: logoURI,
             });
         }
     }
